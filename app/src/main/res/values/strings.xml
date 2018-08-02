@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Clearning</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_abc">ABCActivity</string>
+    <string name="title_activity_menu1">Menu1Activity</string>
+    <string name="title_activity_set1">Set1Activity</string>
+    <string name="title_activity_abc123">Abc123Activity</string>
+    <string name="title_activity_set2">Set2Activity</string>
+    <string name="title_activity_set3">Set3Activity</string>
+    <string name="title_activity_fruit">FruitActivity</string>
+    <string name="title_activity_animal">AnimalActivity</string>
+    <string name="title_activity_flying">FlyingActivity</string>
+    <string name="title_activity_drag1">Drag1Activity</string>
+    <string name="title_activity_ehard">EHardActivity</string>
+    <string name="title_activity_drag2">Drag2Activity</string>
+    <string name="title_activity_drag3">Drag3Activity</string>
+    <string name="title_activity_drag4">Drag4Activity</string>
+    <string name="title_activity_drag5">Drag5Activity</string>
+    <string name="title_activity_drag6">Drag6Activity</string>
+    <string name="title_activity_drag7">Drag7Activity</string>
+    <string name="title_activity_drag8">Drag8Activity</string>
+    <string name="title_activity_med">MedActivity</string>
+
+</resources>

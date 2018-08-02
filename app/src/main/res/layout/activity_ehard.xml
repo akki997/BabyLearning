@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menuuuu"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.clearning.EHardActivity" >
+
+    <ImageView
+        android:id="@+id/easy"
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:src="@drawable/easy1" />
+    <ImageView
+        android:id="@+id/med"
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:src="@drawable/med1" />
+
+    <ImageView
+        android:id="@+id/hard"
+      android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:src="@drawable/hard1" />
+
+</LinearLayout>

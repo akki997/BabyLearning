@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.clearning"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorLandscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ABCActivity"
+            android:label="@string/title_activity_abc"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Set1Activity"
+            android:label="@string/title_activity_set1"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Abc123Activity"
+            android:label="@string/title_activity_abc123"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Set2Activity"
+            android:label="@string/title_activity_set2"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".FruitActivity"
+            android:label="@string/title_activity_fruit"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".AnimalActivity"
+            android:label="@string/title_activity_animal"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".FlyingActivity"
+            android:label="@string/title_activity_flying"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Drag1Activity"
+            android:label="@string/title_activity_drag1"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".EHardActivity"
+            android:label="@string/title_activity_ehard"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Drag2Activity"
+            android:label="@string/title_activity_drag2"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Drag3Activity"
+            android:label="@string/title_activity_drag3"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Drag4Activity"
+            android:label="@string/title_activity_drag4"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Drag5Activity"
+            android:label="@string/title_activity_drag5"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Drag6Activity"
+            android:label="@string/title_activity_drag6"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Drag7Activity"
+            android:label="@string/title_activity_drag7"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".Drag8Activity"
+            android:label="@string/title_activity_drag8"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+        <activity
+            android:name=".MedActivity"
+            android:label="@string/title_activity_med"
+            android:screenOrientation="sensorLandscape" >
+        </activity>
+    </application>
+
+</manifest>
